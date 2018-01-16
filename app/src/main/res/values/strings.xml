@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BudgetApp</string>
+    <string name="ID">EntryID</string>
+    <string name="description">Description</string>
+    <string name="cost">Cost</string>
+    <string name="time">Time</string>
+    <string name="add">Add</string>
+    <string name="category">Category</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="viewCategories">Categories</string>
+    <string name="viewFixed">Fixed Entries</string>
+    <string name="title_activity_fixed">Fixed</string>
+    <string name="title_activity_category_list">CategoryList</string>
+    <string name="name">Name</string>
+    <string name="add_category">Add Category</string>
+    <string name="refresh">Save</string>
+    <string name="category_name">Category name</string>
+    <string name="fixed_entry_name">Fixed Entry Name</string>
+    <string name="fixed_entry">Add Fixed Entry</string>
+    <string name="date_time">Date Time</string>
+    <string name="date_time2">yyyy-MM-dd hh:mm:ss:SSS</string>
+</resources>
